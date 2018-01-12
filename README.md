@@ -1,0 +1,2 @@
+# privacy
+game privacy
