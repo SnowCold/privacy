@@ -1,8 +1,8 @@
 VEGA STUDIO Privacy Policy
 Last updated 16 December 2015
-This Privacy Policy explains how information about you is collected, used and disclosed by Kiloo
-A/S (“Kiloo”) when you use the Subway Surfers mobile application (the “App”).
-By accepting our Privacy Policy, you agree to let Kiloo collect, use and disclose information
+This Privacy Policy explains how information about you is collected, used and disclosed by Vega
+Studio when you use ths mobile application (the “App”).
+By accepting our Privacy Policy, you agree to let Vega collect, use and disclose information
 about you in accordance with the purposes listed below.
 The App is not intended for use by children under 13 and we do not knowingly collect personal
 information from children under 13.
@@ -15,7 +15,7 @@ you can help protect your privacy.
 Collection of Information
 Information You Provide to Us
 The App does not allow you to submit any information directly to us. If you submit any
-information to Kiloo through our website or other sites or services, please refer to the Kiloo
+information to Vega through our website or other sites or services, please refer to the Vega
 Privacy Policy for information about how we collect, use and disclose such information.
 Information We Collect Automatically through the App
 When you access or use the App, we automatically collect information about you, including:
@@ -64,7 +64,7 @@ information to carry out work on our behalf;
 any applicable law, regulation or legal process, or as otherwise required by any
 applicable law, rule or regulation;
 • If we believe your actions are inconsistent with the spirit or language of our user
-agreements or policies, or to protect the rights, property and safety of Kiloo or others;
+agreements or policies, or to protect the rights, property and safety of Vega or others;
 3
 • In connection with, or during negotiations of, any merger, sale of company assets,
 financing or acquisition of all or a portion of our business to another company; and
@@ -87,19 +87,19 @@ Advertising and Analytics Services Provided by Others
 We may allow third parties to serve contextual advertisements and provide analytics services in
 connection with the App. These entities may use various identifiers to collect information about
 your use of the App, including your IP address, MAC address, device identifiers, software and
-hardware information, time zone and usage information. This information may be used by Kiloo
+hardware information, time zone and usage information. This information may be used by Vega
 and others to, among other things, determine the popularity of certain content, deliver
 contextual advertising and content and better understand your activity on the App.
 Third-party ad serving and analytics technologies are integrated into the App, so if you do not
 want to be subject to these technologies, do not use or access the App.
 Security
-Kiloo takes reasonable measures to help protect information about you from loss, theft, misuse
+Vega takes reasonable measures to help protect information about you from loss, theft, misuse
 and unauthorized access, disclosure, alteration and destruction.
 4
 Your Choices
 Account Information
 You may request that we update, correct or delete information about you at any time by
-emailing us at support@kiloo.com, but note that we may retain certain information as required
+emailing us at support@Vega.com, but note that we may retain certain information as required
 by law or for legitimate business purposes. We may also retain cached or archived copies of
 information about you for a certain period.
 Push Notifications
@@ -108,6 +108,10 @@ game-related information, service updates, promotional communications and other 
 messages. You can deactivate these notifications by changing your notification settings on your
 device.
 Storage of Information
-Kiloo will store your information for as long as necessary in order to provide you with the App.
+Vega will store your information for as long as necessary in order to provide you with the App.
 Contact Us
-If you have any questions about this Privacy Policy, please contact us at: support@kiloo.com.
+If you have any questions about this Privacy Policy, please contact us at: support@Vega.com.
+
+
+
+
